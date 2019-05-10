@@ -1,0 +1,11 @@
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\bin\Debug\netcoreapp2.1\Sandbox.deps.json
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\bin\Debug\netcoreapp2.1\Sandbox.runtimeconfig.json
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\bin\Debug\netcoreapp2.1\Sandbox.runtimeconfig.dev.json
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\bin\Debug\netcoreapp2.1\Sandbox.dll
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\bin\Debug\netcoreapp2.1\Sandbox.pdb
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.csprojAssemblyReference.cache
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.AssemblyInfoInputs.cache
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.AssemblyInfo.cs
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.dll
+C:\Users\zew_2_19253\source\repos\Sandbox\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.pdb
